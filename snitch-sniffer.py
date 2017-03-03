@@ -9,3 +9,4 @@ def find_snitch():
         return True
 
     
+def foo():
